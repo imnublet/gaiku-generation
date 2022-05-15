@@ -1,3 +1,1 @@
-- https://www.kaggle.com/datasets/hjhalani30/haiku-dataset
-
-- https://www.kaggle.com/datasets/bfbarry/haiku-dataset
+https://www.kaggle.com/datasets/hjhalani30/haiku-dataset
